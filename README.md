@@ -45,9 +45,53 @@ source venv/bin/activate      # On macOS/Linux
 ```bash
 pip install -r requirements.txt
 ```
+4️⃣**Run the exploratory analysis notebook**
+```bash
+jupyter notebook notebooks/social_media_eda.ipynb
+```
+5️⃣**Launch the Streamlit dashboard**
+```bash
+streamlit run dashboard/dashboard.py
+```
+
+## 📑 Final Deliverables
+✅ Cleaned dataset
+✅ Jupyter Notebook with analysis
+✅ Streamlit Dashboard app
+✅ PDF report with insights and recommendations
+✅ README with setup instructions
 
 
+## 🎨 Streamlit Dashboard Preview
+The interactive Streamlit app includes:
 
+Filters for platform and date range
+
+Dynamic engagement trends over time
+
+Average engagement rates by day of week
+
+Top hashtags visualized
+
+## ✅ Key Skills Demonstrated
+✅ Data Collection & Cleaning
+✅ Feature Engineering
+✅ Exploratory Data Analysis
+✅ Data Visualization
+✅ Predictive Modeling
+✅ Interactive Streamlit Dashboard
+✅ Actionable Marketing Insights
+
+## 🛠️ Technologies Used
+Python, pandas, numpy
+
+matplotlib, seaborn, altair
+
+Streamlit for interactive dashboards
+
+Faker for synthetic data generation
+
+Git & GitHub for version control
 
 
 
