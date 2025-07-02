@@ -55,43 +55,43 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## 📑 Final Deliverables
-✅ Cleaned dataset
-✅ Jupyter Notebook with analysis
-✅ Streamlit Dashboard app
-✅ PDF report with insights and recommendations
-✅ README with setup instructions
+- ✅ Cleaned dataset
+- ✅ Jupyter Notebook with analysis
+- ✅ Streamlit Dashboard app
+- ✅ PDF report with insights and recommendations
+- ✅ README with setup instructions
 
 
 ## 🎨 Streamlit Dashboard Preview
 The interactive Streamlit app includes:
 
-Filters for platform and date range
+- Filters for platform and date range
 
-Dynamic engagement trends over time
+- Dynamic engagement trends over time
 
-Average engagement rates by day of week
+- Average engagement rates by day of week
 
-Top hashtags visualized
+- Top hashtags visualized
 
 ## ✅ Key Skills Demonstrated
-✅ Data Collection & Cleaning
-✅ Feature Engineering
-✅ Exploratory Data Analysis
-✅ Data Visualization
-✅ Predictive Modeling
-✅ Interactive Streamlit Dashboard
-✅ Actionable Marketing Insights
+- ✅ Data Collection & Cleaning
+- ✅ Feature Engineering
+- ✅ Exploratory Data Analysis
+- ✅ Data Visualization
+- ✅ Predictive Modeling
+- ✅ Interactive Streamlit Dashboard
+- ✅ Actionable Marketing Insights
 
 ## 🛠️ Technologies Used
-Python, pandas, numpy
+- Python, pandas, numpy
 
-matplotlib, seaborn, altair
+- matplotlib, seaborn, altair
 
-Streamlit for interactive dashboards
+- Streamlit for interactive dashboards
 
-Faker for synthetic data generation
+- Faker for synthetic data generation
 
-Git & GitHub for version control
+- Git & GitHub for version control
 
 
 
