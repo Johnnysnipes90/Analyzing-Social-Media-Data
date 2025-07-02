@@ -24,5 +24,32 @@ Analyze and optimize social media engagement across platforms to gain actionable
 ├── README.md # Project overview
 └── .gitignore # Git ignore rules
 ```
+
+---
+
+## 📥 Setup Instructions
+
+1️⃣ **Clone the repository**
+```bash
+git clone https://github.com/your-username/social-media-analytics-project.git
+cd social-media-analytics-project
+```
+2️⃣**Create and activate a virtual environment**
+```bash
+uv venv venv
+source venv/Scripts/activate  # On Windows
+# or
+source venv/bin/activate      # On macOS/Linux
+```
+3️⃣ **Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+
+
+
+
+
 ## Author
 [John Olalemi](https://linkedin.com/in/john-olalemi-174638106)
