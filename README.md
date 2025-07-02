@@ -1,19 +1,23 @@
-# Analyzing Social Media Data 📊
+# 📊 Social Media Analytics Project
 
-This project analyzes social media data to uncover key topics, sentiment, influencer networks, and geographic trends in discussions around data science, technology companies, and political events.
+This project analyzes social media performance across platforms (Instagram, Twitter, Facebook) using engagement metrics like likes, comments, shares, impressions, and more.
 
-## Project Objectives
-- Collect and process large-scale Twitter datasets on topics like tech companies and the 2018 State of the Union address.
-- Perform text analysis (hashtags, sentiment, topics) to identify key themes in social media conversations.
-- Analyze social networks formed by mentions and retweets to identify influential users and discussion communities.
-- Conduct geospatial analysis to visualize the regional spread and impact of topics.
+## Objectives
+✅ Evaluate engagement trends  
+✅ Identify top-performing content  
+✅ Provide actionable recommendations  
+✅ Build an interactive dashboard  
 
-## Technologies
-- Python (Tweepy, Pandas, NetworkX, Scikit-learn, Matplotlib, Seaborn, Folium)
-- Jupyter Notebook
+## Project Structure
+- `data/`: Raw and cleaned datasets
+- `notebooks/`: EDA and analysis notebooks
+- `dashboard/`: Streamlit or Power BI dashboard
+- `reports/`: Final report or presentation
+- `requirements.txt`: Python dependencies
 
-## Status
-🚧 Work in progress – code and results coming soon.
+## How to Run
+1. Generate synthetic data:
+
 
 ## Author
 [John Olalemi](https://linkedin.com/in/john-olalemi-174638106)
