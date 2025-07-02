@@ -1,23 +1,28 @@
 # 📊 Social Media Analytics Project
 
-This project analyzes social media performance across platforms (Instagram, Twitter, Facebook) using engagement metrics like likes, comments, shares, impressions, and more.
+Analyze and optimize social media engagement across platforms to gain actionable insights for digital marketing strategy. This project demonstrates data collection, exploratory analysis, predictive modeling, and interactive dashboards — key skills sought after in Digital Marketing Analytics roles.
 
-## Objectives
-✅ Evaluate engagement trends  
-✅ Identify top-performing content  
-✅ Provide actionable recommendations  
-✅ Build an interactive dashboard  
+---
 
-## Project Structure
-- `data/`: Raw and cleaned datasets
-- `notebooks/`: EDA and analysis notebooks
-- `dashboard/`: Streamlit or Power BI dashboard
-- `reports/`: Final report or presentation
-- `requirements.txt`: Python dependencies
+## 🚀 Objectives
+✅ Collect and process social media data  
+✅ Explore engagement trends across platforms  
+✅ Build predictive models for post engagement  
+✅ Create an interactive Streamlit dashboard to present insights  
+✅ Deliver actionable recommendations for content strategy
 
-## How to Run
-1. Generate synthetic data:
+---
 
-
+## 🗂️ Project Structure
+``` social-media-analytics-project/
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # EDA and modeling notebooks
+├── dashboard/ # Streamlit dashboard app
+├── reports/ # Final report or presentation
+├── venv/ # Python virtual environment
+├── requirements.txt # Python dependencies
+├── README.md # Project overview
+└── .gitignore # Git ignore rules
+```
 ## Author
 [John Olalemi](https://linkedin.com/in/john-olalemi-174638106)
