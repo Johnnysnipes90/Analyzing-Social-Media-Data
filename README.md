@@ -51,7 +51,7 @@ jupyter notebook notebooks/social_media_eda.ipynb
 ```
 5️⃣**Launch the Streamlit dashboard**
 ```bash
-streamlit run dashboard/dashboard.py
+streamlit run streamlit_apppy
 ```
 
 ## 📑 Final Deliverables
@@ -95,5 +95,6 @@ The interactive Streamlit app includes:
 
 
 
-## Author
+## 🙋‍♂️ Author & Contact
+Created with ❤️ by John Olalemi
 [John Olalemi](https://linkedin.com/in/john-olalemi-174638106)
